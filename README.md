@@ -1,7 +1,7 @@
 # Book Store Website
 
 A PHP-based online bookstore web application that allows users to browse books, view details, add them to cart, and checkout. Admin functionality is included for managing books.
-
+```markdown
 ## 📂 Project Structure
 
 Book_store_website/
@@ -14,7 +14,8 @@ Book_store_website/
 │── login.php # User login
 │── .git/ # Git version control files
 
-markdown
+```
+```markdown
 Copy code
 
 ## ⚙️ Requirements
@@ -75,4 +76,5 @@ Secure the application before production (input validation, file sanitization, H
 GitHub Pages does not support PHP; deploy to a PHP-enabled server.
 
 👨‍💻 Contributors
-Eng: Saleh Al-shaebi 
+Eng: Saleh Al-shaebi
+```
