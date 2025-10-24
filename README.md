@@ -15,7 +15,7 @@ Book_store_website/
 │── .git/ # Git version control files
 
 ```
-```markdown
+
 Copy code
 
 ## ⚙️ Requirements
@@ -39,7 +39,7 @@ Create a new MySQL database (e.g., bookstore).
 Import the SQL schema (if provided).
 
 Update database connection details inside the PHP files (commonly in a config or db_connect file, add one if missing). Example:
-
+```markdown
 php
 Copy code
 <?php
